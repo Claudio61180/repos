@@ -1,2 +1,17 @@
-
-{aaaaaaaaa}
+[
+  {
+    "name": "Jake",
+    "email": "jake@example.com",
+    "age": 29
+  },
+  {
+    "name": "Mary",
+    "email": "mary@example.com",
+    "age": 31
+  },
+  {
+    "name": "Mike",
+    "email": "mike@example.com",
+    "age": 29
+  }
+]
